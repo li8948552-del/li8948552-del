@@ -6,20 +6,16 @@
 
 <br>
 
-**Information Systems Student @ UNSW · Backend Developer**
-
-`building quietly in the dark ♡`
-
-Building practical web applications with Java, Spring Boot and React.
+**Information Systems Student @ UNSW**
 
 </div>
 
 ### About Me
 
 - 🎓 Studying Information Systems at UNSW
-- 💻 Focused on backend development and full-stack applications
-- 🌱 Currently learning Spring Boot, system design and data structures
-- 🎯 Interested in backend engineering, AI products and intelligent systems
+- 💻 Exploring software development and full-stack applications
+- 🌱 Currently learning Java, Spring Boot and data structures
+- 🎯 Interested in software engineering, AI products and intelligent systems
 
 ### Tech Stack
 
@@ -29,16 +25,6 @@ Building practical web applications with Java, Spring Boot and React.
 ![Python](https://img.shields.io/badge/Python-1f1f1f?style=flat-square&logo=python&logoColor=ffb6c1)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f1f1f?style=flat-square&logo=postgresql&logoColor=ffb6c1)
 ![Git](https://img.shields.io/badge/Git-1f1f1f?style=flat-square&logo=git&logoColor=ffb6c1)
-
-### Featured Project
-
-#### [StockFlow](https://github.com/li8948552-del/stockflow)
-
-An inventory and order management system focused on clean backend architecture and practical business workflows.
-
-#### [Spring Boot + React JWT](https://github.com/li8948552-del/springboot-react-jwt-token)
-
-A full-stack application exploring REST APIs, JWT authentication and frontend–backend integration.
 
 ---
 
