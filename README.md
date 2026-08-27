@@ -1,8 +1,14 @@
 <div align="center">
 
-# Hi, I'm Hexin 👋
+# Hi, I'm Hexin ♡
+
+<img src="https://gifdb.com/images/high/anime-girl-pfp-498-x-487-gif-54q3bae391876njg.gif" width="320" alt="Gloomy gothic anime girl in the rain" />
+
+<br>
 
 **Information Systems Student @ UNSW · Backend Developer**
+
+`building quietly in the dark ♡`
 
 Building practical web applications with Java, Spring Boot and React.
 
@@ -17,12 +23,12 @@ Building practical web applications with Java, Spring Boot and React.
 
 ### Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-1f1f1f?style=flat-square&logo=openjdk&logoColor=ffb6c1)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-1f1f1f?style=flat-square&logo=springboot&logoColor=ffb6c1)
+![React](https://img.shields.io/badge/React-1f1f1f?style=flat-square&logo=react&logoColor=ffb6c1)
+![Python](https://img.shields.io/badge/Python-1f1f1f?style=flat-square&logo=python&logoColor=ffb6c1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f1f1f?style=flat-square&logo=postgresql&logoColor=ffb6c1)
+![Git](https://img.shields.io/badge/Git-1f1f1f?style=flat-square&logo=git&logoColor=ffb6c1)
 
 ### Featured Project
 
@@ -37,5 +43,5 @@ A full-stack application exploring REST APIs, JWT authentication and frontend–
 ---
 
 <div align="center">
-  <sub>Thanks for visiting ✨</sub>
+  <sub>Thanks for visiting ♡</sub>
 </div>
