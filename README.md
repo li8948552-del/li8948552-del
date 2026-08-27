@@ -13,6 +13,7 @@
 ### About Me
 
 - 🎓 Studying Information Systems at UNSW
+- 🖤 Personality type: INFJ · 5w6 · 531
 - 💻 Exploring software development and full-stack applications
 - 🌱 Currently learning Java, Spring Boot and data structures
 - 🎯 Interested in software engineering, AI products and intelligent systems
