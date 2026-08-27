@@ -2,7 +2,7 @@
 
 # Hi, I'm Hexin ♡
 
-<img src="https://gifdb.com/images/high/anime-girl-pfp-498-x-487-gif-54q3bae391876njg.gif" width="320" alt="Gloomy gothic anime girl in the rain" />
+<img src="https://media.giphy.com/media/udK21RQeWtaGQ/giphy.gif" width="520" alt="Lain sitting alone at a computer" />
 
 <br>
 
