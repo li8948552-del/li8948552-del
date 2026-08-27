@@ -2,7 +2,7 @@
 
 # Hi, I'm Hexin ♡
 
-<img src="https://media.giphy.com/media/udK21RQeWtaGQ/giphy.gif" width="520" alt="Lain sitting alone at a computer" />
+<img src="https://media1.tenor.com/m/2qG0p0aPgMEAAAAd/ame-ame-chan.gif" width="500" alt="Ame-chan sitting at a computer in a pink and black pixel-art scene" />
 
 <br>
 
